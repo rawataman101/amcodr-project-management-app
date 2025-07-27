@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+header {
+  background-image: linear-gradient(to right, #e0f2f7, #bbdefb);
+}
+
+button {
+  cursor: pointer;
+}
